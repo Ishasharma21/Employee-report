@@ -1,0 +1,1 @@
+The HR Analytics Dashboard using PowerBI project primarily focuses on analyzing employee attrition within an organization. By leveraging HR data and utilizing Power BI the objective is to identify patterns, trends, and potential factors contributing to employee turnover.
